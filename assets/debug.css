@@ -1,0 +1,27 @@
+.navbar .container {
+	background-color: gold;
+}
+
+.jumbo {
+	background-color: blue;
+}
+
+.jumbo .content {
+	background-color: salmon;
+	min-height: 250px;
+}
+
+.section-feature .image {
+	background-color: aquamarine;
+	min-height: 250px;
+}
+
+.section-feature .text {
+	background-color: coral;
+	min-height: 250px;
+}
+
+.section-full .container {
+	background-color: green;
+	min-height: 500px;
+}
